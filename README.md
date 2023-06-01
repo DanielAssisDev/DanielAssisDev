@@ -1,10 +1,10 @@
 # 💻 Hello Developer!
 
-## 🎓 My name is Daniel
+## 🎓 My name is Daniel!
 ## 📕 I'm a coding student since 2022, and that's all my work, that i wanna to show you!
 ## 🔨 I'm studying (or already studied) about: JavaScript, React Native, Html/Css, Python, nodejs, etc... 
-## 🐍 Currently i'm focusing in Python
-## 💾 I want to participate in any coding group or project
+## 🐍 Currently i'm focusing on Python!
+## 💾 I want to participate in any coding group or project!
 ## 🎧 Any knowledge that you can provide i will receive! 
 ## 📞 Contact me on my discord: CoderDaniel#8044
 
