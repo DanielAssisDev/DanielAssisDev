@@ -1,11 +1,11 @@
 # 💻 Hello!
 
-## 🎓 My name is Daniel!
-## 📕 I'm a development systems student since 2022, and that's all my work, that i want to show you!
-## 🔨 I've been studying about: JavaScript, React Native, Html/Css, Python, nodejs, etc... 
-## 🐍 Currently i'm focusing on Python!
-## 💾 I want to participate in any coding group or project!
-## 🎧 Some knowledge that you can provide i will receive! 
+### 🎓 My name is Daniel!
+### 📕 I'm a development systems student since 2022, and that's all my work, that i want to show you!
+### 🔨 I've been studying about: JavaScript, React Native, Html/Css, Python, nodejs, etc... 
+### 🐍 Currently i'm focusing on Python!
+### 💾 Don't forget: you can call me to participate on some coding groups or projects of computer programming!
+### 🎧 if you have knowledge, don't forget to share.
 
 # learned/learning
 <div>
