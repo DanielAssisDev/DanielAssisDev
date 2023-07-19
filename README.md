@@ -1,15 +1,15 @@
-# 💻 Hello there! Welcome to my GitHub profile!
+# 💻 Hello there! Welcome to the Sanson Daniel Github's Profile!
 ## 🎓 About Me
-My name is Daniel, and I'm a development systems student since 2022. I'm passionate about programming, and I would love to share my work with you!
+My name real is Daniel, and I'm a development systems student since 16th march 2022, and i want to follow a front-end career
 
 ## 🔨 Technologies I've Been Studying
 I've been focusing on learning various technologies, and here are some of them:
 
-JavaScript
-React Native
-HTML/CSS
-Python (curent focus)
-Node.js
+°JavaScript
+°React Native
+°HTML/CSS
+°Python (curent focus)
+°Node.js
 
 ## 💾 Let's Collaborate!
 I'm always open to collaboration and eager to participate in coding groups or exciting programming projects. If you have any opportunities or ideas, don't hesitate to reach out to me!
