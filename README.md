@@ -1,6 +1,6 @@
-# 💻 Hello there! Welcome to the Sanson Daniel Github's Profile!
+# 💻 Hello there! Welcome to the Samson Daniel Github's Profile!
 ## 🎓 About Me
-My name real is Daniel, and I'm a development systems student since 16th march 2022, and i want to follow a front-end career
+My name real is Daniel, But you can call me Samson, I'm a development systems student since 16th march 2022, and i want to follow a front-end career
 
 ## 🔨 Technologies I've Been Studying
 I've been focusing on learning various technologies, and here are some of them:
