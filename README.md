@@ -6,9 +6,13 @@ My name real is Daniel, and I'm a development systems student since 16th march 2
 I've been focusing on learning various technologies, and here are some of them:
 
 °JavaScript
+
 °React Native
+
 °HTML/CSS
+
 °Python (curent focus)
+
 °Node.js
 
 ## 💾 Let's Collaborate!
