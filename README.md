@@ -1,8 +1,8 @@
-#💻 Hello there! Welcome to my GitHub profile!
-##🎓 About Me
+# 💻 Hello there! Welcome to my GitHub profile!
+## 🎓 About Me
 My name is Daniel, and I'm a development systems student since 2022. I'm passionate about programming, and I would love to share my work with you!
 
-##🔨 Technologies I've Been Studying
+## 🔨 Technologies I've Been Studying
 I've been focusing on learning various technologies, and here are some of them:
 
 JavaScript
@@ -11,10 +11,10 @@ HTML/CSS
 Python (curent focus)
 Node.js
 
-##💾 Let's Collaborate!
+## 💾 Let's Collaborate!
 I'm always open to collaboration and eager to participate in coding groups or exciting programming projects. If you have any opportunities or ideas, don't hesitate to reach out to me!
 
-##🎧 Sharing Knowledge
+## 🎧 Sharing Knowledge
 I believe in the power of sharing knowledge. If you have any insights or expertise, feel free to share them with me. Let's learn and grow together!
 
 What I've Learned/Learning
