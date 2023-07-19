@@ -19,7 +19,7 @@ I've been focusing on learning various technologies, and here are some of them:
 I'm always open to collaboration and eager to participate in coding groups or exciting programming projects. If you have any opportunities or ideas, don't hesitate to reach out to me!
 
 ## 🎧 Sharing Knowledge
-I believe in the power of sharing knowledge. If you have any insights or expertise, feel free to share them with me. Let's learn and grow together!
+I will be glad if you desire to share some ideas of the programming languages that i am learning, feel welcome to call me for help!
 
 What I've Learned/Learning
 <div>
