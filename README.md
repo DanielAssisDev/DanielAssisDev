@@ -1,4 +1,4 @@
-#From Brazilian dev Community
+# 📗💡 From Brazilian dev Community
 
 # 💻 Hello there! Welcome to the Samson Daniel Github's Profile!
 ## 🎓 About Me
