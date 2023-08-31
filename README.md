@@ -32,11 +32,5 @@ What I've Learned/Learning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100" style="display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100" height="100" style="display: inline-block;" />
 </div>
-GitHub Stats
-<div>
-  <a href="https://github.com/DanielProgrammer64">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielProgrammer64&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielProgrammer64&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  </a>
-</div>
+
 Feel free to explore my repositories and projects. If you find anything interesting or have any questions, don't hesitate to get in touch! Let's make the coding world a better place together! 😄🚀
