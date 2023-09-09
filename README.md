@@ -7,7 +7,7 @@ My name real is Daniel, But you can call me Samson, I'm a development systems st
 ## 🔨 Technologies I've Been Studying
 I've been focusing on learning various technologies, and here are some of them:
 
-°JavaScript (current Focus!) 
+°JavaScript
 
 °React Native
 
