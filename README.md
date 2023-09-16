@@ -1,38 +1,15 @@
 
 # ~$ SamsonCoding ⚛
 
-### Oi, me chamo Sansão Daniel 👋
+### Oi, me chamo Daniel 👋
 
 ### Sobre mim
 
-📕 Eu sou um Estudante de programação desde março/2022
-
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
-
-🎓 Eu faço o curso de programação profissional com a Byjus:
-🔗https://code.byjusfutureschool.com
-
-
-
-🎓 Eu faço Também o curso de JavaScript Moderno na devsamurai:
-🔗https://class.devsamurai.com.br
-
-<br>
-
-
-👩‍💻 Atualmente eu tenho estudado:
-
-💻°JavaScript e Seus FrameWorks, como técnologia principal
-
-💻° Html e Css, para auxiliar na criação das estruturas e websites
-
-💻° Python como linguagem BackEnd e linguagem de Programação secundária
-
-💻° além de Nodejs e typescript para serem mais opções de técnologias
-
-
-📚 Lendo o EBOOK de front-end do: https://www.instagram.com/progmatico/
+<ul>
+<li style={{FontFamily: monospace}}> 📕 Eu sou um Estudante de programação desde março/2022 </li>
+<li> 💻 Tenho o desejo de seguir como carreira o Front-end, para desenvolvimento de aplicações web e aplicações para dispositivos móveis </li>
+<li> 📚 Lendo o EBOOK de front-end do: https://www.instagram.com/progmatico/ </li>
+</ul>
 
 ### Técnologias e ferramentas:
 
