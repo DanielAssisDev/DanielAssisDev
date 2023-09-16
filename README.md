@@ -1,10 +1,21 @@
 
+<div>
+
+![8mee](https://github.com/DanielProgrammer64/DanielProgrammer64/assets/103775773/d182f2a9-1126-49d1-9b2c-24454d158f12)
+
+  
+</div>
+
+
+
 <i>
 
 # ~$ SamsonCoding ⚛
 
-
 <i>
+
+
+
 
 ### Oi, me chamo Daniel 👋
 
