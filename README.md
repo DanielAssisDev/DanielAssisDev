@@ -10,16 +10,16 @@
 
 <i>
 
-# ~$ SamsonCoding ⚛
+<h1> ~$ SamsonCoding ⚛ </h1>
 
 <i>
 
 
 
 
-### Oi, me chamo Daniel 👋
+<h3> Oi, me chamo Daniel 👋 </h3>
 
-### Sobre mim
+<h3> Sobre mim </h3>
 
 <ul>
   <i>
@@ -29,8 +29,8 @@
   </i>
   </ul>
 
-### Técnologias e ferramentas:
-
+<h3> Técnologias e ferramentas: </h3>
+ 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,7 +44,7 @@
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
-### Eu estou estudando... 🧩
+<h3> Eu estou estudando... 🧩 </h3>
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -53,7 +53,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Entre em contato comigo! 📭
+<h3> Entre em contato comigo! 📭 </h3>
 <div>
 <a href="https://www.youtube.com/channel/UCKybosElZyxkOHJE0aijcGA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/samson_daniel.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
