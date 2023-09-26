@@ -2,7 +2,6 @@
 <div>
 
 ![gif](https://raw.githubusercontent.com/thomas10-10/foo-Wallpaper-Feh-Gif/master/desktop-animation4.gif)
-
   
 </div>
 
@@ -23,7 +22,7 @@
 
 <ul>
   <i>
-<li style={{FontFamily: monospace}}> 📕 Eu sou um Estudante de programação desde março/2022 </li>
+<li> 📕 Eu sou um Estudante de programação desde março/2022 </li>
 <li> 💻 Tenho o desejo de seguir como carreira o Front-end, para desenvolvimento de aplicações web e aplicações para Mobile </li>
 <li> 📚 Lendo o EBOOK de front-end do: https://www.instagram.com/progmatico/ </li>
   </i>
