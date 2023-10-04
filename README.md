@@ -1,20 +1,17 @@
 
 <div>
 
-![gif](https://raw.githubusercontent.com/thomas10-10/foo-Wallpaper-Feh-Gif/master/desktop-animation4.gif)
+![gif](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)
   
 </div>
 
-
+<div >
 
 <i>
 
 <h1> ~$ SamsonCoding ⚛ </h1>
 
 <i>
-
-
-
 
 <h3> Oi, me chamo Daniel 👋 </h3>
 
@@ -57,4 +54,6 @@
 <a href="https://www.youtube.com/channel/UCKybosElZyxkOHJE0aijcGA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/samson_daniel.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://discord.com/channels/@coderDaniel"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
+</div>
+
 </div>
