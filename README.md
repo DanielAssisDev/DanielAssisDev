@@ -22,6 +22,7 @@
 <li> 📕 Eu sou um Estudante de programação desde março/2022 </li>
 <li> 💻 Tenho o desejo de seguir como carreira o Front-end, para desenvolvimento de aplicações web e aplicações para Mobile </li>
 <li> 📚 Lendo o EBOOK de front-end do: https://www.instagram.com/progmatico/ </li>
+<li> ⭐ Você pode me achar no CodeCamp: https://www.freecodecamp.org/Coding_with_Daniel </li>
   </i>
   </ul>
 
