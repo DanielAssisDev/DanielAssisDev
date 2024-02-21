@@ -21,7 +21,7 @@
 
 <ul>
   <i>
-<li> Estudante de Programação </li>
+<li> Estudante de Ciência da computação </li>
 <li> Foco Lógica de programação </li>
 <li> 16 anos </li>
   </i>
