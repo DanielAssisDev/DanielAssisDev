@@ -22,7 +22,7 @@
 <ul>
   <i>
 <li> Estudante de Programação </li>
-<li> Foco desenvolvimento web e Front-End </li>
+<li> Foco Lógica de programação </li>
 <li> 16 anos </li>
   </i>
   </ul>
