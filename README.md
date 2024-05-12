@@ -11,29 +11,29 @@
 
 <i>
 
-<h1> Daniel Assis </h1>
+<h1> Daniel Assis - Samson </h1>
 
 <i>
 
-<h3> Oi, me chamo Daniel 👋 </h3>
+<h3> Ayo there! 🎩 </h3>
 
 <h3> Sobre mim </h3>
 
 <ul>
   <i>
-<li> Estudante de Ciência da computação </li>
-<li> Foco Lógica de programação </li>
-<li> 16 anos </li>
+<li> web development and programming logic student </li>
+<li> Programming logic </li>
+<li> 16y </li>
   </i>
   </ul>
 
-<h3> Linguagens: </h3>
+<h3> Languages that i work/worked with: </h3>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-<h3> Projetos JavaScript e desenvolvimento Front-End apresentados à baixo... </h3>
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=78&color=currentColor)
+![Html](https://icongr.am/devicon/html5-original.svg?size=78&color=currentColor)
+![Css](https://icongr.am/devicon/css3-original.svg?size=78&color=currentColor)
+![React](https://icongr.am/devicon/react-original-wordmark.svg?size=78&color=currentColor)
+![Node](https://icongr.am/devicon/nodejs-original.svg?size=78&color=currentColor)
+![Py](https://icongr.am/devicon/python-original.svg?size=78&color=currentColor)
 
 </div>
