@@ -15,7 +15,7 @@
 
 <i>
 
-<h3> Ayo there! 🎩 </h3>
+<h3> Hello there! 🎩 </h3>
 
 <h3> Sobre mim </h3>
 
@@ -29,7 +29,12 @@
 
 <h3> Languages that i work/worked with: </h3>
 
+<h4> Main Language:</h4>
+
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=78&color=currentColor)
+
+<h4> Other Languages/tools:</h4>
+
 ![Html](https://icongr.am/devicon/html5-original.svg?size=78&color=currentColor)
 ![Css](https://icongr.am/devicon/css3-original.svg?size=78&color=currentColor)
 ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=78&color=currentColor)
