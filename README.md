@@ -36,9 +36,12 @@
 
 <h3> Languages that i work/worked with: </h3>
 
-<h4> Main Language:</h4>
+<h4> Main Languages/techs:</h4>
 
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=78&color=currentColor)
+<div>
+<img style="margin-right: 20px" src="https://icongr.am/devicon/javascript-original.svg?size=78&color=currentColor" width="60" height="60"/>
+<img src="https://github.com/user-attachments/assets/49d626aa-ffae-40ce-ace0-74bd4fcd16d6" width="60" height="60"/>
+</div>
 
 <h4> Other Languages/tools:</h4>
 
