@@ -24,7 +24,7 @@
 
 <h3> Hello there! 🎩 </h3>
 
-<h3> Sobre mim </h3>
+<h3> About me: </h3>
 
 <ul>
   <i>
