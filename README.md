@@ -28,7 +28,7 @@
 
 <ul>
   <i>
-<li> web development and programming logic student </li>
+<li> web development and data structures </li>
 <li> Programming logic </li>
 <li> 16y </li>
   </i>
