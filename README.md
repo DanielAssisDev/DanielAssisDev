@@ -41,7 +41,7 @@
 <div>
 <img style="margin-right: 20px" src="https://icongr.am/devicon/javascript-original.svg?size=78&color=currentColor" width="60" height="60"/>
 <img src="https://github.com/user-attachments/assets/49d626aa-ffae-40ce-ace0-74bd4fcd16d6" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="70" height="70"/>
           
    
 </div>
