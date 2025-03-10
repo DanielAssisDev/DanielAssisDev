@@ -1,16 +1,7 @@
 
 <div>
- 
-```
- _________                                           .___             .__       .__           .___           
- /   _____/____    _____   __________   ____        __| _/____    ____ |__| ____ |  |        __| _/_______  __
- \_____  \\__  \  /     \ /  ___/  _ \ /    \      / __ |\__  \  /    \|  |/ __ \|  |       / __ |/ __ \  \/ /
- /        \/ __ \|  Y Y  \\___ (  <_> )   |  \    / /_/ | / __ \|   |  \  \  ___/|  |__    / /_/ \  ___/\   / 
-/_______  (____  /__|_|  /____  >____/|___|  /____\____ |(____  /___|  /__|\___  >____/ /\ \____ |\___  >\_/  
-        \/     \/      \/     \/           \/_____/    \/     \/     \/        \/       \/      \/    \/      
-```
 
-![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![Captura de tela 2025-03-08 130921](https://github.com/user-attachments/assets/88b0d802-c840-4eb9-b0ca-4ebdb5592382)
 
 </div>
 
@@ -39,10 +30,10 @@
 <h4> Main Languages/techs:</h4>
 
 <div>
-<img style="margin-right: 20px" src="https://icongr.am/devicon/javascript-original.svg?size=78&color=currentColor" width="60" height="60"/>
-<img src="https://github.com/user-attachments/assets/49d626aa-ffae-40ce-ace0-74bd4fcd16d6" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="70" height="70"/>
-          
+
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=78&color=currentColor)
+![MySQL](https://icongr.am/devicon/mysql-original-wordmark.svg?size=78&color=currentColor) 
+![JAVA](https://icongr.am/devicon/java-original.svg?size=78&color=currentColor)        
    
 </div>
 
@@ -53,5 +44,8 @@
 ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=78&color=currentColor)
 ![Node](https://icongr.am/devicon/nodejs-original.svg?size=78&color=currentColor)
 ![Py](https://icongr.am/devicon/python-original.svg?size=78&color=currentColor)
+![PHP](https://icongr.am/devicon/php-original.svg?size=78&color=currentColor)
+![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=78&color=currentColor)
+
 
 </div>
