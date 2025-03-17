@@ -7,22 +7,24 @@
 
 <div>
 
-<i>
 
 <h1> Daniel Assis - Samson </h1>
 
-<i>
+<p> Olá, sou Daniel Assis, um jovem dev que busca se desenvolver na área de tecnologia! 
+    Aqui você pode ver os meus repositórios e a evolução da abordagem ao longo do tempo!
+</p>
+
 
 <h3> Hello there! 🎩 </h3>
 
 <h3> About me: </h3>
 
 <ul>
-  <i>
+  
 <li> Data Structures, Database, Programming logic with JS. </li>
 <li> Programming logic </li>
 <li> 17y </li>
-  </i>
+  
   </ul>
 
 <h3> Languages that i work/worked with: </h3>
