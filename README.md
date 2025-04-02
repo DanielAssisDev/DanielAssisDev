@@ -47,7 +47,5 @@
 ![Node](https://icongr.am/devicon/nodejs-original.svg?size=78&color=currentColor)
 ![Py](https://icongr.am/devicon/python-original.svg?size=78&color=currentColor)
 ![PHP](https://icongr.am/devicon/php-original.svg?size=78&color=currentColor)
-![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=78&color=currentColor)
-
 
 </div>
