@@ -1,18 +1,14 @@
 
 <div>
 
-![Captura de tela 2025-03-08 130921](https://github.com/user-attachments/assets/88b0d802-c840-4eb9-b0ca-4ebdb5592382)
+![{AF750CF8-6330-4EEA-81C8-32D0803AE222}](https://github.com/user-attachments/assets/2a5009a2-2d26-4f4f-a25a-3b9c33af8086)
 
 </div>
 
 <div>
 
 
-<h1> Daniel Assis - Samson </h1>
-
-<p> Olá, sou Daniel Assis, um jovem dev que busca se desenvolver na área de tecnologia! 
-    Aqui você pode ver os meus repositórios e a evolução da abordagem ao longo do tempo!
-</p>
+<h1> Daniel Assis</h1>
 
 
 <h3> Hello there! 🎩 </h3>
