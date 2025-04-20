@@ -1,14 +1,11 @@
+<div style="text-align: center; justify-content: center; border: 10px solid; padding: 20px; align-items: center; display: flex ">
+
+<img src="https://github.com/user-attachments/assets/2a5009a2-2d26-4f4f-a25a-3b9c33af8086" alt="Capa do perfil" style="object-fit:cover; width: 800px"> 
 
 <div>
 
-![{AF750CF8-6330-4EEA-81C8-32D0803AE222}](https://github.com/user-attachments/assets/2a5009a2-2d26-4f4f-a25a-3b9c33af8086)
 
-</div>
-
-<div>
-
-
-<h1> Daniel Assis</h1>
+<h1> Daniel Assis </h1>
 
 
 <h3> Hello there! 🎩 </h3>
@@ -17,9 +14,9 @@
 
 <ul>
   
-<li> Data Structures, Database, Programming logic with JS. </li>
-<li> Programming logic </li>
-<li> 17y </li>
+<li> Database Administration Assistant with MySQL </li>
+<li> Data analysis with Microsoft Excel </li>
+<li> Programming logic with JavaScript and Java </li>
   
   </ul>
 
@@ -44,4 +41,6 @@
 ![Py](https://icongr.am/devicon/python-original.svg?size=78&color=currentColor)
 ![PHP](https://icongr.am/devicon/php-original.svg?size=78&color=currentColor)
 
+</div>
+</div>
 </div>
