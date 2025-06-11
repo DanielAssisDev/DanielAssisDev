@@ -1,7 +1,7 @@
 
 <div style="text-align: center; justify-content: center; border: 10px solid; padding: 20px; align-items: center;">
 
-<img src="https://github.com/user-attachments/assets/718e8cd3-41b2-4f5a-8e51-5933b9b0fcd8" alt="Capa do perfil" style="width: 800px"> 
+<img src="https://github.com/user-attachments/assets/632cc179-b386-4d1e-ae36-82fb78b9d64a" alt="Capa do perfil"> 
 
 <div>
 
